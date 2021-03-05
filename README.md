@@ -10,7 +10,7 @@
 
 
 
-​	Serve somente para calculo automático da média de duas notas para avaliar se o estudante foi aprovado ou reprovado, levando em conta também a quantidade de faltas do individuo.
+​	Serve somente para cálculo automático da média de duas notas para avaliar se o estudante foi aprovado ou reprovado, levando em conta também a quantidade de faltas do individuo.
 
 - Média maior ou igual a seis **E** faltas menor igual a dez =  **APROVADO**;
 - Média menor que seis **E** faltas maior que dez = **REPROVADO**.
